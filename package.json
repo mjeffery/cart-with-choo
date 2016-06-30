@@ -1,0 +1,28 @@
+{
+  "name": "shopping-cart-with-choo",
+  "version": "1.0.0",
+  "description": "Shopping Cart application implemented in choo",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjeffery/shopping-cart-with-choo.git"
+  },
+  "keywords": [
+    "choo"
+  ],
+  "author": "mjeffery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjeffery/shopping-cart-with-choo/issues"
+  },
+  "homepage": "https://github.com/mjeffery/shopping-cart-with-choo#readme",
+  "dependencies": {
+    "choo": "^2.3.1",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.1"
+  }
+}
